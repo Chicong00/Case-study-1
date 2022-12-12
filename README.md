@@ -5,7 +5,7 @@
 - [Problem Statement](#Problem-Statement)
 - [Entity Relationship Diagram](#Entity-Relationship-Diagram)
 - [Case Study Questions](#Case-Study-Questions)
-- [Solutions]()
+- [Solutions](https://github.com/Chicong00/Case-study-1-Solutions/blob/main/README.md)
 
 ***
 
